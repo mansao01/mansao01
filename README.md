@@ -4,7 +4,7 @@ Perkenalkan nama saya **Novri Lukman Zyarif**.
 
 Saya seorang mahasiswa di Universitas Muria Kudus
 
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/novri-lukman-b39b8b189/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/) ku ya.
 
 <p align="left">
 <a href="https://github.com/mansao01">
