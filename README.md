@@ -1,28 +1,27 @@
-### HII !
+<!-- ### HII There ! -->
+
+<!-- Perkenalkan nama saya **Novri Lukman Zyarif**.
+
+Saya seorang mahasiswa di Universitas Muria Kudus
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/) ku ya.
+
+<p align="left">
+<a href="https://github.com/mansao01">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansao01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mansao01&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+ -->
 
 
-
-# 💫 About Me:
-Hi there 👋<br><br>My name is Novri Lukman Zyarif,<br><br>🌱 I'm currently a student at Muria Kudus University
+Hi there 👋<br><br>I'm Novri Lukman Zyarif ,<br><br>🌱 I'm currently a student at Muria Kudus University
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Novri Lukman Zyarif) 
+# Contact: [Linkedin](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/)
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mansao01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mansao01&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mansao01&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansao01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mansao01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
