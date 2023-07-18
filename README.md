@@ -6,8 +6,11 @@ Hi there 👋<br><br>I'm Novri Lukman Zyarif <br><br>🌱 I'm currently a studen
 
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,gcp" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/7098f8f7-bea2-49d4-9178-ff7dc0ab4cc1?locale=id">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </a>
+    <a href="https://kotlinlang.org">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
   </a>
 </p>
 
