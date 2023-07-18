@@ -1,22 +1,15 @@
-<!-- ### HII There ! -->
 
-<!--  Perkenalkan nama saya **Novri Lukman Zyarif**.
-
-Saya seorang mahasiswa di Universitas Muria Kudus
-
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/) ku ya.
- -->
-
-
-
-Hi there 👋<br><br>I'm Novri Lukman Zyarif ,<br><br>🌱 I'm currently a student at Muria Kudus University
+Hi there 👋<br><br>I'm Novri Lukman Zyarif <br><br>🌱 I'm currently a student at Muria Kudus University
 
 
 # Contact: [Linkedin](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/)
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mansao01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mansao01&theme=dark&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansao01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  -->
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gcp" />
+  </a>
+</p>
 
 
 <p align="left">
