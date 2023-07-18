@@ -7,7 +7,7 @@ Hi there 👋<br><br>I'm Novri Lukman Zyarif <br><br>🌱 I'm currently a studen
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gcp" />
+    <img src="https://skillicons.dev/icons?i=kotlin,gcp" />
   </a>
 </p>
 
