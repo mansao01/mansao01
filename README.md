@@ -5,18 +5,18 @@ Hi there 👋<br><br>I'm Novri Lukman Zyarif <br><br>🌱 I'm currently a studen
 <p align="left">
   <a href="https://www.cloudskillsboost.google/public_profiles/7098f8f7-bea2-49d4-9178-ff7dc0ab4cc1?locale=id">
 <!--     <img src="https://skillicons.dev/icons?i=gcp" /> -->
-     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=black" />
   </a>
     <a href="https://kotlinlang.org">
-          <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=black" />
 <!--       <img src="https://skillicons.dev/icons?i=kotlin" /> -->
 </a>
     <a href="https://developer.android.com/?hl=id">
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
   </a>
   </a>
     <a href="https://nodejs.org/en">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black" />
   </a>
 </p>
 
