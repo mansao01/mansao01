@@ -11,10 +11,16 @@ Hi there 👋<br><br>I'm Novri Lukman Zyarif <br><br>🌱 I'm currently a studen
           <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <!--       <img src="https://skillicons.dev/icons?i=kotlin" /> -->
 </a>
-    <a href="https://kotlinlang.org">
+    <a href="https://developer.android.com/?hl=id">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </a>
+  </a>
+    <a href="https://nodejs.org/en">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>
 </p>
+
+
 
 ### Contact Me: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/)
