@@ -1,19 +1,24 @@
 
 Hi there 👋<br><br>I'm Novri Lukman Zyarif <br><br>🌱 I'm currently a student at Muria Kudus University
 
-
-# Contact: [Linkedin](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/)
-
-
+### My Fav Tech:
 <p align="left">
   <a href="https://www.cloudskillsboost.google/public_profiles/7098f8f7-bea2-49d4-9178-ff7dc0ab4cc1?locale=id">
-    <img src="https://skillicons.dev/icons?i=gcp" />
+<!--     <img src="https://skillicons.dev/icons?i=gcp" /> -->
+     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
     <a href="https://kotlinlang.org">
-    <img src="https://skillicons.dev/icons?i=kotlin" />
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<!--       <img src="https://skillicons.dev/icons?i=kotlin" /> -->
+</a>
+    <a href="https://kotlinlang.org">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
 
+### Contact Me: 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novri-lukman-zyarif-b39b8b189/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novrilukman15@gmail.com)
 
 <p align="left">
 <a href="https://github.com/mansao01">
