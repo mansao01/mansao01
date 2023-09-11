@@ -27,9 +27,9 @@ Hi there 👋<br><br>I'm Novri Lukman Zyarif <br><br>🌱 I'm currently a studen
 
 <p align="left">
 <a href="https://github.com/mansao01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansao01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansao01&show_icons=true&theme=tokyonight&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mansao01&layout=compact&langs_count=8&theme=tokyonight"/>
-   <img height = "180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=mansao01&theme=tokyonight&hide_border=true"/>
+   <img height = "180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=mansao01&theme=tokyonight&hide_border=false"/>
 
 </a>
 </p>
